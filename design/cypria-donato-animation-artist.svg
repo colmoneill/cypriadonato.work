@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="297mm"
-   height="210mm"
-   viewBox="0 0 1052.3622 744.09448"
+   width="1791.1339mm"
+   height="952.09613mm"
+   viewBox="0 0 6346.5374 3373.569"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.58101528"
-     inkscape:cx="322.21108"
-     inkscape:cy="316.97863"
+     inkscape:zoom="0.78077498"
+     inkscape:cx="1414.0644"
+     inkscape:cy="2366.5836"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -35,7 +35,12 @@
      inkscape:window-height="715"
      inkscape:window-x="0"
      inkscape:window-y="22"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="false"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -52,84 +57,880 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-308.26772)">
+     transform="translate(749.52913,363.36599)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="69.733429"
-       y="632.02588"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.22245598px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="44.100037"
+       y="540.32275"
        id="text4153"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
-         x="69.733429"
-         y="632.02588"
+         x="44.100037"
+         y="540.32275"
          id="tspan4157"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:90px;line-height:100%;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk Bold';letter-spacing:0.38px;word-spacing:3.849998px">cypria donato</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.50052261px;line-height:100%;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk Bold';letter-spacing:0.26811332px;word-spacing:2.71640992px">cypria donato</tspan><tspan
          sodipodi:role="line"
-         x="69.733429"
-         y="722.02588"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:100%;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';letter-spacing:0.38px;word-spacing:3.849998px"
+         x="44.100037"
+         y="603.8233"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.50052261px;line-height:100%;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';letter-spacing:0.26811332px;word-spacing:2.71640992px"
          id="tspan4161">animation artist</tspan></text>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 70.936059,765.75845 766.722131,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4.2333684;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 38.948568,634.67928 540.969522,0"
        id="path4167"
        inkscape:connector-curvature="0" />
-    <g
-       id="g4146"
-       transform="translate(-810.236,6.1464757)">
-      <rect
-         y="465.45853"
-         x="395.73132"
-         height="94.661888"
-         width="184.16039"
-         id="rect4144"
-         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text3336"
-         y="524.60614"
-         x="256.84332"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk Bold';letter-spacing:2.46999955px"
-           y="524.60614"
-           x="256.84332"
-           id="tspan3338"
-           sodipodi:role="line">cypria  <tspan
-   id="tspan4142"
-   style="fill:#ffffff">donato</tspan></tspan></text>
-      <rect
-         y="465.88882"
-         x="225.46739"
-         height="95.522446"
-         width="354.98206"
-         id="rect3340"
-         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-    </g>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4144"
+       width="184.16039"
+       height="94.661888"
+       x="-414.50467"
+       y="471.60501" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-553.3927"
+       y="530.75262"
+       id="text3336"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3338"
+         x="-553.3927"
+         y="530.75262"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk Bold';letter-spacing:2.46999955px">cypria  <tspan
+   style="fill:#ffffff"
+   id="tspan4142">donato</tspan></tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect3340"
+       width="354.98206"
+       height="95.522446"
+       x="-584.76862"
+       y="472.03531" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.74058151;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4190"
        width="100.06021"
        height="13.897252"
-       x="-584.47852"
-       y="424.64575"
+       x="987.34113"
+       y="794.14069"
        ry="6.948626" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.05286074;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4200"
        width="13.623097"
        height="13.623097"
-       x="-358.32443"
-       y="424.34625"
+       x="1213.4952"
+       y="793.84119"
        ry="5.671452" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.74058151;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4190-1"
        width="100.06021"
        height="13.897252"
-       x="-212.93869"
-       y="424.64575"
+       x="1358.881"
+       y="794.14069"
        ry="6.948626" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:112.00000048%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="69.733429"
+       y="1212.0259"
+       id="text4153-3"
+       sodipodi:linespacing="112%"><tspan
+         sodipodi:role="line"
+         x="69.733429"
+         y="1212.0259"
+         id="tspan4157-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:90px;line-height:112.00000048%;font-family:Dosis;-inkscape-font-specification:'Dosis Bold';letter-spacing:0.38px;word-spacing:3.849998px">cypria donato —</tspan><tspan
+         sodipodi:role="line"
+         x="69.733429"
+         y="1312.8259"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:112.00000048%;font-family:Dosis;-inkscape-font-specification:Dosis;letter-spacing:0.38px;word-spacing:3.849998px"
+         id="tspan4161-7">animation artist</tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4216"
+       width="587.86279"
+       height="104.71631"
+       x="1229.0317"
+       y="1084.5028"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:119.00000572%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1242.2689"
+       y="1053.5568"
+       id="text4153-3-5"
+       sodipodi:linespacing="119.00001%"><tspan
+         sodipodi:role="line"
+         x="1242.2689"
+         y="1053.5568"
+         id="tspan4157-6-6"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:90px;line-height:119.00000572%;font-family:Dosis;-inkscape-font-specification:'Dosis Medium';letter-spacing:0.38px;word-spacing:3.849998px">cypria donato —</tspan><tspan
+         sodipodi:role="line"
+         x="1242.2689"
+         y="1160.6567"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:90px;line-height:119.00000572%;font-family:Dosis;-inkscape-font-specification:'Dosis Light';letter-spacing:0.38px;word-spacing:3.849998px;fill:#ffffff"
+         id="tspan4161-7-2">animation artist</tspan></text>
+    <g
+       id="g4618"
+       transform="translate(313.11212,-49.766165)">
+      <text
+         sodipodi:linespacing="112%"
+         id="text4153-3-9"
+         y="1452.2788"
+         x="969.85352"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:112.00000048%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:112.00000048%;font-family:'Belgika 8th';-inkscape-font-specification:'Belgika 8th';letter-spacing:0.38px;word-spacing:3.849998px"
+           id="tspan4157-6-1"
+           y="1452.2788"
+           x="969.85352"
+           sodipodi:role="line">cypria donato</tspan><tspan
+           id="tspan4161-7-27"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:112.00000048%;font-family:'Belgika 16th';-inkscape-font-specification:'Belgika 16th';letter-spacing:0.38px;word-spacing:3.849998px"
+           y="1552.7511"
+           x="969.85352"
+           sodipodi:role="line"> animation artist</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="49.054993"
+       y="681.92224"
+       id="text4239"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4241"
+         x="49.054993"
+         y="681.92224"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk Bold'">http://cypriadonato.work</tspan><tspan
+         sodipodi:role="line"
+         x="49.054993"
+         y="719.42224"
+         id="tspan4245"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk'">mail@cypriadonato.work</tspan><tspan
+         sodipodi:role="line"
+         x="49.054993"
+         y="756.92224"
+         id="tspan4247"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk'">+32478479350</tspan><tspan
+         sodipodi:role="line"
+         x="49.054993"
+         y="794.42224"
+         id="tspan4251"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk'">Rue du Fort 10</tspan><tspan
+         sodipodi:role="line"
+         x="49.054993"
+         y="831.92224"
+         id="tspan4255"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk'">1060 Saint-Gilles</tspan><tspan
+         sodipodi:role="line"
+         x="49.054993"
+         y="869.42224"
+         id="tspan4257"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk'">Bruxelles</tspan><tspan
+         sodipodi:role="line"
+         x="49.054993"
+         y="906.92224"
+         id="tspan4243"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk'" /></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect3340-7"
+       width="354.98206"
+       height="95.522446"
+       x="-584.76862"
+       y="568.03528" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-555.3927"
+       y="630.75262"
+       id="text3336-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3338-9"
+         x="-555.3927"
+         y="630.75262"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';letter-spacing:1.14000034px">animation artist</tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.74058151;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4190-5"
+       width="100.06021"
+       height="13.897252"
+       x="-712.72577"
+       y="1402.299"
+       ry="6.948626" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.05286074;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4200-4"
+       width="13.623097"
+       height="13.623097"
+       x="-486.57169"
+       y="1401.9994"
+       ry="5.671452" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.74058151;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4190-1-9"
+       width="100.06021"
+       height="13.897252"
+       x="-341.18594"
+       y="1402.299"
+       ry="6.948626" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.74058151;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4190-5-4"
+       width="100.06021"
+       height="13.897252"
+       x="55.680019"
+       y="1451.989"
+       ry="6.948626"
+       transform="matrix(0.8660254,0.5,-0.5,0.8660254,0,0)" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.05286074;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4200-4-9"
+       width="13.623097"
+       height="13.623097"
+       x="281.83411"
+       y="1451.6895"
+       ry="5.671452"
+       transform="matrix(0.8660254,0.5,-0.5,0.8660254,0,0)" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.74058151;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4190-1-9-9"
+       width="100.06021"
+       height="13.897252"
+       x="427.21985"
+       y="1451.989"
+       ry="6.948626"
+       transform="matrix(0.8660254,0.5,-0.5,0.8660254,0,0)" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.74058151;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4190-5-4-4"
+       width="100.06021"
+       height="13.897252"
+       x="746.0979"
+       y="1110.7885"
+       ry="6.948626"
+       transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.74058151;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4200-4-9-5"
+       width="13.623097"
+       height="13.623097"
+       x="972.25201"
+       y="1110.4889"
+       ry="5.671452"
+       transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.74058151;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4190-1-9-9-9"
+       width="100.06021"
+       height="13.897252"
+       x="1117.6377"
+       y="1110.7885"
+       ry="6.948626"
+       transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.05286074;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4200-4-8"
+       width="13.623097"
+       height="13.623097"
+       x="281.94806"
+       y="1451.72"
+       ry="5.671452"
+       transform="matrix(0.8660254,0.5,-0.5,0.8660254,0,0)" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.05286074;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4200-4-9-1"
+       width="13.623097"
+       height="13.623097"
+       x="972.25201"
+       y="1110.4889"
+       ry="5.671452"
+       transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.74058151;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4190-5-4-4-9"
+       width="100.06021"
+       height="13.897252"
+       x="1173.4171"
+       y="470.09113"
+       ry="6.948626"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.74058151;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4200-4-9-5-9"
+       width="13.623097"
+       height="13.623097"
+       x="1399.5712"
+       y="469.79156"
+       ry="5.671452"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.74058151;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4190-1-9-9-9-7"
+       width="100.06021"
+       height="13.897252"
+       x="1544.9569"
+       y="470.09113"
+       ry="6.948626"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4418"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion4420"><rect
+           id="rect4422"
+           width="325.55365"
+           height="180.40234"
+           x="-611.70911"
+           y="845.00317" /></flowRegion><flowPara
+         id="flowPara4424"></flowPara></flowRoot>    <g
+       id="g4462"
+       transform="matrix(0.30446739,0,0,0.30446739,-336.77712,612.08067)">
+      <g
+         transform="translate(-4,0)"
+         id="g4458">
+        <path
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.74058151;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           id="path4426"
+           sodipodi:type="arc"
+           sodipodi:cx="-572.82928"
+           sodipodi:cy="934.68591"
+           sodipodi:rx="43.026997"
+           sodipodi:ry="43.026997"
+           sodipodi:start="0"
+           sodipodi:end="6.2695019"
+           d="m -529.80229,934.68591 a 43.026997,43.026997 0 0 1 -42.87981,43.02675 43.026997,43.026997 0 0 1 -43.17317,-42.73237 43.026997,43.026997 0 0 1 42.58443,-43.31911 43.026997,43.026997 0 0 1 43.46452,42.436 l -43.02296,0.58873 z" />
+        <path
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.74058151;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           id="path4426-8"
+           sodipodi:type="arc"
+           sodipodi:cx="-372.82928"
+           sodipodi:cy="934.68591"
+           sodipodi:rx="43.026997"
+           sodipodi:ry="43.026997"
+           sodipodi:start="0"
+           sodipodi:end="6.2695019"
+           d="m -329.80229,934.68591 a 43.026997,43.026997 0 0 1 -42.87981,43.02675 43.026997,43.026997 0 0 1 -43.17317,-42.73237 43.026997,43.026997 0 0 1 42.58443,-43.31911 43.026997,43.026997 0 0 1 43.46452,42.436 l -43.02296,0.58873 z" />
+      </g>
+      <path
+         d="m -433.80229,734.68591 a 43.026997,43.026997 0 0 1 -42.87981,43.02675 43.026997,43.026997 0 0 1 -43.17317,-42.73237 43.026997,43.026997 0 0 1 42.58443,-43.31911 43.026997,43.026997 0 0 1 43.46452,42.436 l -43.02296,0.58873 z"
+         sodipodi:end="6.2695019"
+         sodipodi:start="0"
+         sodipodi:ry="43.026997"
+         sodipodi:rx="43.026997"
+         sodipodi:cy="734.68591"
+         sodipodi:cx="-476.82928"
+         sodipodi:type="arc"
+         id="path4426-8-2"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.74058151;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="159.93744"
+       y="1586.0771"
+       id="text4468"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4470"
+         x="159.93744"
+         y="1586.0771"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';letter-spacing:84.69010925px">cypria</tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.94300532;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4472"
+       width="1096.5522"
+       height="565.76996"
+       x="-95.088783"
+       y="1527.5283"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1589.23"
+       y="-895.83197"
+       id="text4468-5"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4470-3"
+         x="1589.23"
+         y="-895.83197"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';letter-spacing:41.70989227px">donato</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-456.69894"
+       y="-2017.3372"
+       id="text4468-4"
+       sodipodi:linespacing="125%"
+       transform="scale(-1,-1)"><tspan
+         sodipodi:role="line"
+         id="tspan4470-9"
+         x="-432.74893"
+         y="-2017.3372"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';text-align:center;letter-spacing:47.90000153px;text-anchor:middle">animation</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-1986.5553"
+       y="2.631958"
+       id="text4468-5-0"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4470-3-2"
+         x="-1986.5553"
+         y="2.631958"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';letter-spacing:41.70989227px">artist</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="159.93744"
+       y="2286.0771"
+       id="text4468-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4470-1"
+         x="159.93744"
+         y="2286.0771"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';letter-spacing:84.69010925px">cypria</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2289.23"
+       y="-895.83197"
+       id="text4468-5-9"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4470-3-6"
+         x="2289.23"
+         y="-895.83197"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';letter-spacing:41.70989227px">donato</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-456.69891"
+       y="-2717.3372"
+       id="text4468-4-2"
+       sodipodi:linespacing="125%"
+       transform="scale(-1,-1)"><tspan
+         sodipodi:role="line"
+         id="tspan4470-9-1"
+         x="-432.7489"
+         y="-2717.3372"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';text-align:center;letter-spacing:47.90000153px;text-anchor:middle">animation</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-2686.5552"
+       y="2.631958"
+       id="text4468-5-0-2"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4470-3-2-0"
+         x="-2686.5552"
+         y="2.631958"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';letter-spacing:41.70989227px">artist</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1299.9374"
+       y="1768.0771"
+       id="text4468-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4470-31"
+         x="1299.9374"
+         y="1768.0771"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';letter-spacing:84.69010925px">cypria</tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.03279901;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4472-1"
+       width="1096.4624"
+       height="600.87018"
+       x="1044.9563"
+       y="1687.5732"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1735.23"
+       y="-2013.832"
+       id="text4468-5-90"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4470-3-5"
+         x="1735.23"
+         y="-2013.832"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';letter-spacing:41.70989227px">donato</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-1596.699"
+       y="-2201.3372"
+       id="text4468-4-6"
+       sodipodi:linespacing="125%"
+       transform="scale(-1,-1)"><tspan
+         sodipodi:role="line"
+         id="tspan4470-9-7"
+         x="-1572.749"
+         y="-2201.3372"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';text-align:center;letter-spacing:47.90000153px;text-anchor:middle">animation</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-2120.5552"
+       y="1132.6321"
+       id="text4468-5-0-7"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4470-3-2-4"
+         x="-2120.5552"
+         y="1132.6321"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';letter-spacing:41.70989227px">artist</tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.52659059;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4472-1-0"
+       width="962.07373"
+       height="475.2789"
+       x="1179.5981"
+       y="1687.3201"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1739.9374"
+       y="2466.0771"
+       id="text4468-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4470-4"
+         x="1739.9374"
+         y="2466.0771"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';letter-spacing:84.69010925px">cypria</tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.98567152;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4472-7"
+       width="1096.5095"
+       height="582.31604"
+       x="1484.9327"
+       y="2390.9609"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2469.23"
+       y="-2475.832"
+       id="text4468-5-4"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4470-3-8"
+         x="2469.23"
+         y="-2475.832"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';letter-spacing:41.70989227px">donato</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-2036.699"
+       y="-2897.3372"
+       id="text4468-4-5"
+       sodipodi:linespacing="125%"
+       transform="scale(-1,-1)"><tspan
+         sodipodi:role="line"
+         id="tspan4470-9-8"
+         x="-2012.749"
+         y="-2897.3372"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';text-align:center;letter-spacing:47.90000153px;text-anchor:middle">animation</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-2866.5552"
+       y="1582.6321"
+       id="text4468-5-0-26"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4470-3-2-06"
+         x="-2866.5552"
+         y="1582.6321"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';letter-spacing:41.70989227px">artist</tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.84824598;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4472-7-6"
+       width="678.78174"
+       height="360.4761"
+       x="1693.7966"
+       y="2501.8809"
+       ry="0" />
+    <g
+       id="g4870"
+       transform="translate(-289.80715,-572.36912)">
+      <rect
+         y="251.81795"
+         x="3342.292"
+         height="337.6189"
+         width="656.8222"
+         id="rect4144-4"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3336-6"
+         y="462.77249"
+         x="2846.937"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:142.66307068px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk Bold';letter-spacing:8.80944347px"
+           y="462.77249"
+           x="2846.937"
+           id="tspan3338-2"
+           sodipodi:role="line">cypria  <tspan
+   id="tspan4142-8"
+   style="fill:#ffffff">donato</tspan></tspan></text>
+      <rect
+         y="253.35265"
+         x="2735.0322"
+         height="340.68814"
+         width="1266.0708"
+         id="rect3340-9"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:17.83288383;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <rect
+         y="595.7439"
+         x="2735.0322"
+         height="340.68814"
+         width="1266.0708"
+         id="rect3340-7-6"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:17.83300018;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3336-8-0"
+         y="819.43011"
+         x="2839.804"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:142.66307068px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';letter-spacing:4.0658989px"
+           y="819.43011"
+           x="2839.804"
+           id="tspan3338-9-7"
+           sodipodi:role="line">animation artist</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4239-0"
+         y="1089.4264"
+         x="2825.2231"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.7641449px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:80px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk Bold'"
+           y="1089.4264"
+           x="2825.2231"
+           id="tspan4241-1"
+           sodipodi:role="line">http://cypriadonato.work</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk'"
+           id="tspan4245-0"
+           y="1189.4264"
+           x="2825.2231"
+           sodipodi:role="line">mail@cypriadonato.work</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk'"
+           id="tspan4257-7"
+           y="1289.4264"
+           x="2825.2231"
+           sodipodi:role="line">+32478479350</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk'"
+           id="tspan4243-2"
+           y="1389.4264"
+           x="2825.2231"
+           sodipodi:role="line" /></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4781"
+         y="1441.822"
+         x="2840.5906"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';text-align:start;text-anchor:start"
+           y="1441.822"
+           x="2840.5906"
+           id="tspan4783"
+           sodipodi:role="line">Rue du Fort 10</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';text-align:start;text-anchor:start"
+           id="tspan4785"
+           y="1541.822"
+           x="2840.5906"
+           sodipodi:role="line">1060 Saint-Gilles</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';text-align:start;text-anchor:start"
+           id="tspan4787"
+           y="1641.822"
+           x="2840.5906"
+           sodipodi:role="line">Bruxelles</tspan></text>
+      <rect
+         y="940.24841"
+         x="2739.5366"
+         height="777.39026"
+         width="1257.0619"
+         id="rect3340-7-6-6"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:17.83300018;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </g>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4144-4-4"
+       width="656.8222"
+       height="337.6189"
+       x="4893.7007"
+       y="1376.4806" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:142.66307068px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="4398.3457"
+       y="1587.4351"
+       id="text3336-6-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3338-2-2"
+         x="4398.3457"
+         y="1587.4351"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk Bold';letter-spacing:8.80944347px">cypria  <tspan
+   style="fill:#ffffff"
+   id="tspan4142-8-0">donato</tspan></tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:17.83288383;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect3340-9-2"
+       width="1266.0708"
+       height="340.68814"
+       x="4286.4409"
+       y="1378.0153" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:17.83300018;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect3340-7-6-9"
+       width="1266.0708"
+       height="340.68814"
+       x="4286.4409"
+       y="1720.4065" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:142.66307068px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="4391.2124"
+       y="1944.0927"
+       id="text3336-8-0-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3338-9-7-9"
+         x="4391.2124"
+         y="1944.0927"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';letter-spacing:4.0658989px">animation artist</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.7641449px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="3636.6318"
+       y="2214.0891"
+       id="text4239-0-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4241-1-4"
+         x="3636.6318"
+         y="2214.0891"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:80px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk Bold'">http://cypriadonato.work</tspan><tspan
+         sodipodi:role="line"
+         x="3636.6318"
+         y="2314.0891"
+         id="tspan4245-0-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk'">mail@cypriadonato.work</tspan><tspan
+         sodipodi:role="line"
+         x="3636.6318"
+         y="2414.0891"
+         id="tspan4257-7-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk'">+32478479350</tspan><tspan
+         sodipodi:role="line"
+         x="3636.6318"
+         y="2514.0891"
+         id="tspan4243-2-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk'" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="3651.999"
+       y="2566.4849"
+       id="text4781-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4783-7"
+         x="3651.999"
+         y="2566.4849"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';text-align:start;text-anchor:start">Rue du Fort 10</tspan><tspan
+         sodipodi:role="line"
+         x="3651.999"
+         y="2666.4849"
+         id="tspan4785-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';text-align:start;text-anchor:start">1060 Saint-Gilles</tspan><tspan
+         sodipodi:role="line"
+         x="3651.999"
+         y="2766.4849"
+         id="tspan4787-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';text-align:start;text-anchor:start">Bruxelles</tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:17.83300018;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect3340-7-6-6-6"
+       width="2063.5793"
+       height="772.44757"
+       x="3489.0796"
+       y="2061.3823" />
+    <g
+       id="g4462-0"
+       transform="matrix(0.98183396,0,0,0.98183396,4311.7322,881.28278)">
+      <g
+         transform="translate(-4,0)"
+         id="g4458-4">
+        <path
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.74058151;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           id="path4426-6"
+           sodipodi:type="arc"
+           sodipodi:cx="-572.82928"
+           sodipodi:cy="934.68591"
+           sodipodi:rx="43.026997"
+           sodipodi:ry="43.026997"
+           sodipodi:start="0"
+           sodipodi:end="6.2695019"
+           d="m -529.80229,934.68591 a 43.026997,43.026997 0 0 1 -42.87981,43.02675 43.026997,43.026997 0 0 1 -43.17317,-42.73237 43.026997,43.026997 0 0 1 42.58443,-43.31911 43.026997,43.026997 0 0 1 43.46452,42.436 l -43.02296,0.58873 z" />
+        <path
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.74058151;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           id="path4426-8-7"
+           sodipodi:type="arc"
+           sodipodi:cx="-372.82928"
+           sodipodi:cy="934.68591"
+           sodipodi:rx="43.026997"
+           sodipodi:ry="43.026997"
+           sodipodi:start="0"
+           sodipodi:end="6.2695019"
+           d="m -329.80229,934.68591 a 43.026997,43.026997 0 0 1 -42.87981,43.02675 43.026997,43.026997 0 0 1 -43.17317,-42.73237 43.026997,43.026997 0 0 1 42.58443,-43.31911 43.026997,43.026997 0 0 1 43.46452,42.436 l -43.02296,0.58873 z" />
+      </g>
+      <path
+         d="m -433.80229,734.68591 a 43.026997,43.026997 0 0 1 -42.87981,43.02675 43.026997,43.026997 0 0 1 -43.17317,-42.73237 43.026997,43.026997 0 0 1 42.58443,-43.31911 43.026997,43.026997 0 0 1 43.46452,42.436 l -43.02296,0.58873 z"
+         sodipodi:end="6.2695019"
+         sodipodi:start="0"
+         sodipodi:ry="43.026997"
+         sodipodi:rx="43.026997"
+         sodipodi:cy="734.68591"
+         sodipodi:cx="-476.82928"
+         sodipodi:type="arc"
+         id="path4426-8-2-6"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.74058151;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </g>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.03087127;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4936"
+       width="601.21826"
+       height="858.42206"
+       x="11.280204"
+       y="123.06495" />
   </g>
 </svg>
