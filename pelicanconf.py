@@ -49,3 +49,9 @@ MENUITEMS = (('Contact', 'contact.html'),
 
 CATEGORY_URL = '{slug}.html'
 CATEGORY_SAVE_AS = '{slug}.html'
+
+##--------------------
+### PLUGINS ###
+
+PLUGIN_PATHS = ["output/plugins"]
+PLUGINS = ["representative_image"]
