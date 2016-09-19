@@ -5,6 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'Cypria Donato'
 SITENAME = u'Cypria Donato'
 SITEURL = 'http://cypriadonato.work'
+# Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
 PATH = 'content'
@@ -28,13 +29,23 @@ SOCIAL = (('You can add links in your config file', '#'),
 
 DEFAULT_PAGINATION = 10
 
-# Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
 
 THEME = "output/theme/cypria-donato"
 #THEME = "/usr/local/lib/python2.7/dist-packages/pelican/themes/notmyidea"
 #THEME = "/usr/local/lib/python2.7/dist-packages/pelican/themes/simple"
 CSS_FILE = 'screen.css'
 USE_FOLDER_AS_CATEGORY = True
-ARTICLE_PATHS = ['Blog/', 'Projets/']
-DISPLAY_CATEGORIES_ON_MENU = True
+ARTICLE_PATHS = ['Blog/', 'Projets/', 'Contact/',]
+INDEX_SAVE_AS = 'all_index.html'
+DISPLAY_CATEGORIES_ON_MENU = False
+DISPLAY_PAGES_ON_MENU = False
+MENUITEMS = (('Contact', 'contact.html'),
+             ('Projets', 'projets.html'),
+             ('Blog', 'blog.html'),)
+
+
+##--------------------
+### URL SETTINGS ###
+
+CATEGORY_URL = '{slug}.html'
+CATEGORY_SAVE_AS = '{slug}.html'
