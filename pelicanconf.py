@@ -4,7 +4,8 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Cypria Donato'
 SITENAME = u'Cypria Donato'
-#SITEURL = 'http://cypriadonato.work'
+SITEURL = 'http://cypriadonato.work'
+RELATIVE_URLS = True
 
 PATH = 'content'
 
@@ -18,12 +19,8 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+TYPOGRIFY = True
 
-# Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
@@ -34,5 +31,10 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-THEME = "cypria-donato"
+THEME = "output/theme/cypria-donato"
+#THEME = "/usr/local/lib/python2.7/dist-packages/pelican/themes/notmyidea"
+#THEME = "/usr/local/lib/python2.7/dist-packages/pelican/themes/simple"
 CSS_FILE = 'screen.css'
+USE_FOLDER_AS_CATEGORY = True
+ARTICLE_PATHS = ['Blog/', 'Projets/']
+DISPLAY_CATEGORIES_ON_MENU = True
