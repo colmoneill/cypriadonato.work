@@ -901,6 +901,24 @@ header#hp-banner ul {
   margin-bottom: 32px;
 }
 
+header#banner {
+  width: 100%;
+  text-transform: lowercase;
+  padding-bottom: 16px;
+}
+header#banner h1 {
+  font-family: "hk_groteskbold";
+  font-size: 42px;
+  border-bottom: none;
+  padding-bottom: 8px;
+  margin-bottom: 16px;
+  border-bottom: 3px solid #333;
+}
+header#banner ul {
+  font-family: "hk_groteskmedium";
+  margin-bottom: 16px;
+}
+
 section#content {
   margin-top: 32px;
 }
