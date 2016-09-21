@@ -1,5 +1,32 @@
 {% extends "base.html" %}
 {% block title %}{{ SITENAME }}{%endblock%}
+{% block nav %}
+<header id="hp-banner" class="body">
+  <nav><ul>
+  {% if DISPLAY_PAGES_ON_MENU -%}
+  {% for pg in PAGES %}
+      <li{% if pg == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ pg.url }}">{{ pg.title }}</a></li>
+  {% endfor %}
+  {% endif %}
+  {% if DISPLAY_CATEGORIES_ON_MENU -%}
+  {% for cat, null in categories %}
+      <li{% if cat == category %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
+  {% endfor %}
+  {% endif %}
+  {% for title, link in MENUITEMS %}
+      <li><a href="{{ link }}">{{ title }}</a></li>
+  {% endfor %}
+  </ul></nav>
+  <h1><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1>
+  <sub>{% if SITESUBTITLE %}{{ SITESUBTITLE }}{% endif %}</sub>
+</header><!-- /#banner -->
+{% endblock nav %}
 {% block content %}
+<div class="row">
+  <div class="colspan6-3 colspan2-2  as-grid">
+    <div class="as-grid__module">
     {{ page.content }}
+    </div>
+  </div>
+</div>
 {% endblock %}
