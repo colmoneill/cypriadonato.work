@@ -4,6 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Cypria Donato'
 SITENAME = u'Cypria Donato'
+SITESUBTITLE = u'Animation Artist'
 SITEURL = 'http://cypriadonato.work'
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
@@ -20,7 +21,7 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
-TYPOGRIFY = True
+TYPOGRIFY = False
 
 
 # Social widget
@@ -54,4 +55,4 @@ CATEGORY_SAVE_AS = '{slug}.html'
 ### PLUGINS ###
 
 PLUGIN_PATHS = ["output/plugins"]
-PLUGINS = ["representative_image"]
+PLUGINS = ['representative_image', 'collate_content']
