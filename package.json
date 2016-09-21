@@ -1,0 +1,19 @@
+{
+  "name": "cypriadonato.work",
+  "version": "1.0.0",
+  "description": "Portfolio website based on Pelican no-cms structure for Cypria Donato, animation artist.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colmoneill/cypriadonato.work.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colmoneill/cypriadonato.work/issues"
+  },
+  "homepage": "https://github.com/colmoneill/cypriadonato.work#readme"
+}
