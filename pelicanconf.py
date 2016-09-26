@@ -40,8 +40,8 @@ ARTICLE_PATHS = ['Blog/', 'Projets/', 'Contact/',]
 INDEX_SAVE_AS = 'all_index.html'
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
-MENUITEMS = (('Contact', 'contact.html'),
-             ('Projets', 'projets.html'),
+MENUITEMS = (('Projets', 'projets.html'),
+             ('Contact', 'contact.html'),
              ('Blog', 'blog.html'),)
 
 
