@@ -989,6 +989,9 @@ li.project-entry article.hentry h3 {
   font-size: 15px;
   text-transform: lowercase;
 }
+li.project-entry article.hentry div.entry-content h1, li.project-entry article.hentry div.entry-content h2, li.project-entry article.hentry div.entry-content h3, li.project-entry article.hentry div.entry-content h4, li.project-entry article.hentry div.entry-content h5, li.project-entry article.hentry div.entry-content h6 {
+  text-transform: lowercase;
+}
 li.project-entry div.odd {
   float: right;
 }
