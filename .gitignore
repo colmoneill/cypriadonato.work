@@ -2,3 +2,4 @@ imgs/
 venv/
 *.pid
 *.pyc
+pelicanconf.pyc
