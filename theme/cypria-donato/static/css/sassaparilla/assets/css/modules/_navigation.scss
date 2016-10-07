@@ -1,0 +1,53 @@
+// ------------------------------------------------------------
+// Navigation module (example)
+// ------------------------------------------------------------
+
+header#hp-banner{
+  width: 100%;
+  text-transform: lowercase;
+  border-bottom: 3px solid $jack-black;
+  padding-bottom: $bfs;
+  h1{
+    font-family: $hk-bold;
+    font-size: $alpha;
+    border-bottom: none;
+    margin-bottom: -$bfs/2;
+  }
+  sub{
+    font-size: $alpha;
+    font-family: $hk-light;
+  }
+  ul{
+    font-family: $hk-medium;
+    //font-size: $theta;
+    margin-bottom: $bfs*2;
+  }
+}
+
+header#banner{
+  width: 100%;
+  text-transform: lowercase;
+  padding-bottom: $bfs;
+  h1{
+    font-family: $hk-bold;
+    font-size: $alpha;
+    border-bottom: none;
+    padding-bottom: $bfs/2;
+    margin-bottom: $bfs;
+    border-bottom: 3px solid $jack-black;
+  }
+  ul{
+    font-family: $hk-medium;
+    margin-bottom: $bfs;
+  }
+}
+
+header{
+  ul{
+    li{
+      @include respond-to($c-vp){
+        display: inline;
+      }
+    }
+  }
+}

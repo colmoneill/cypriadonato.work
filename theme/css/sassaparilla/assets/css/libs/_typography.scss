@@ -1,0 +1,86 @@
+// ------------------------------------------------------------
+// Global typography
+// ------------------------------------------------------------
+@font-face {
+    font-family: 'hk_groteskbold';
+    src: url('../fonts/hkgrotesk-bold-webfont.woff2') format('woff2'),
+         url('../fonts/hkgrotesk-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'hk_groteskbold_italic';
+    src: url('../fonts/hkgrotesk-bolditalic-webfont.woff2') format('woff2'),
+         url('../fonts/hkgrotesk-bolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'hk_groteskitalic';
+    src: url('../fonts/hkgrotesk-italic-webfont.woff2') format('woff2'),
+         url('../fonts/hkgrotesk-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'hk_grotesklight';
+    src: url('../fonts/hkgrotesk-light-webfont.woff2') format('woff2'),
+         url('../fonts/hkgrotesk-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'hk_grotesklight_italic';
+    src: url('../fonts/hkgrotesk-lightitalic-webfont.woff2') format('woff2'),
+         url('../fonts/hkgrotesk-lightitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'hk_groteskmedium';
+    src: url('../fonts/hkgrotesk-medium-webfont.woff2') format('woff2'),
+         url('../fonts/hkgrotesk-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'hk_groteskmedium_italic';
+    src: url('../fonts/hkgrotesk-mediumitalic-webfont.woff2') format('woff2'),
+         url('../fonts/hkgrotesk-mediumitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'hk_groteskregular';
+    src: url('../fonts/hkgrotesk-regular-webfont.woff2') format('woff2'),
+         url('../fonts/hkgrotesk-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+// ------------------------------------------------------------
+// Fonts
+// ------------------------------------------------------------
+
+$hk-regular: 'hk_groteskregular';
+$hk-medium_italic: 'hk_groteskmedium_italic';
+$hk-medium: 'hk_groteskmedium';
+$hk-light_italic: 'hk_grotesklight_italic';
+$hk-light: 'hk_grotesklight';
+$hk-italic: 'hk_groteskitalic';
+$hk-bold: 'hk_groteskbold';
+
+.font-body 					{  font-family: 'hk_groteskregular', sans-serif, sans-serif; }
+.font-var 					{  font-family: Georgia, serif; }
+
+
+// ------------------------------------------------------------
+// Core typography
+// ------------------------------------------------------------
+
+p, span, cite, ol, ul, pre, label, input, textarea 	{ @include adjust-font-size-to($para); }
+ul 													{ @include nobullet; }
+ol 													{ @include nobullet; }
+li 													{ line-height: inherit; }
+strong, b 											{ font-weight: 700; }
+em, i, q 											{ font-style: italic; }
