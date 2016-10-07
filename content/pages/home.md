@@ -6,9 +6,9 @@ Template: homepage
 
 <!-- cette page ne rendra pas de contenu texte, elle sert la page d'accueil, et donc le slider d'images de la page d'accueil -->
 
-![](images/visuel_HD_01.jpg)
-![](images/visuel_HD_02.jpg)
-![](images/visuel_HD_03.jpg)
+![alt](images/visuel_HD_01.jpg)
+![alt](images/visuel_HD_02.jpg)
+![alt](images/visuel_HD_03.jpg)
 
 
 

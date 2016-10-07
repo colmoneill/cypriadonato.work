@@ -1,3 +1,6 @@
+Title: Template
+Status: Draft
+Date: 2016-09-19
 <!--
 ICI UN TEMPLATE de document pour les pages projets
 -->
