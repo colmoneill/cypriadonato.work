@@ -1,5 +1,8 @@
 {% extends "base.html" %}
 {% block title %}{{ SITENAME }}{%endblock%}
+{% block alt %}
+{{page.slider_imgs}}
+{% endblock alt %}
 {% block nav %}
 <header id="hp-banner" class="body">
   <nav><ul>
@@ -21,12 +24,3 @@
   <sub>{% if SITESUBTITLE %}{{ SITESUBTITLE }}{% endif %}</sub>
 </header><!-- /#banner -->
 {% endblock nav %}
-{% block content %}
-<div class="row">
-  <div class="colspan6-3 colspan2-2  as-grid">
-    <div class="as-grid__module">
-    {{ page.content }}
-    </div>
-  </div>
-</div>
-{% endblock %}
