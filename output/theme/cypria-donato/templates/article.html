@@ -12,17 +12,20 @@
 {% endblock %}
 
 {% block content %}
-<div class="row">
+<div class="row-parent">
 <section id="content" class="body">
   <header>
  {% import 'translations.html' as translations with context %}
  {{ translations.translations_for(article) }}
   </header>
-  <div class="entry-content">
+  <div class="entry-content article">
+    <div class="row">
     {{ article.content }}
+    <hr>
+    <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
+       title="Permalink to {{ article.title|striptags }}">Permalink to this page</a>
+  </div>
   </div><!-- /.entry-content -->
 </section>
-  <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
-     title="Permalink to {{ article.title|striptags }}">Permalink to this page</a>
 </div>
 {% endblock %}
