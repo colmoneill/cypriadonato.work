@@ -7,7 +7,7 @@ SITENAME = u'Cypria Donato'
 SITESUBTITLE = u'Animation Artist'
 SITEURL = 'http://cypriadonato.work'
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = False
+RELATIVE_URLS = True
 
 PATH = 'content'
 
