@@ -9,5 +9,5 @@ Longueur: 05:12
 
 
 # Putain
-![alt](images/visuel_HD_01.jpg)
+![alt](images/visuel_HD_01.jpg){: .full}
 Master graduation project. A short film exploring sensations and emotions of prostitutes in their work, and how animation can represent things in a different and subtle way.
