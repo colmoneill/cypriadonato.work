@@ -871,6 +871,39 @@ input[type="checkbox"]:focus {
   left: auto;
 }
 
+.lt-ie9 div.entry-content.article p {
+  width: 60%;
+  margin: 0 auto;
+}
+.lt-ie9 div.entry-content.article p img {
+  width: 140%;
+}
+@media screen and (min-width: 600px) {
+  div.entry-content.article p {
+    width: 60%;
+    margin: 0 auto;
+  }
+  div.entry-content.article p img {
+    width: 140%;
+  }
+}
+.lt-ie9 div.entry-content.article img.full {
+  width: 80%;
+  margin: 0 auto;
+}
+.lt-ie9 div.entry-content.article p {
+  width: 40%;
+}
+@media screen and (min-width: 900px) {
+  div.entry-content.article img.full {
+    width: 80%;
+    margin: 0 auto;
+  }
+  div.entry-content.article p {
+    width: 40%;
+  }
+}
+
 li.blog-entry {
   background-color: lightgrey;
   margin-bottom: 8px;
