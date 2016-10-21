@@ -943,6 +943,30 @@ footer#main-footer p a {
   color: #777;
 }
 
+div.half {
+  margin-top: -8px;
+  margin-left: -8px;
+  width: calc(50% + 8px);
+  float: left;
+  height: 100vh;
+}
+div.half img.img-home-half {
+  width: 100%;
+  height: 100%;
+}
+
+div.half- {
+  width: 45%;
+  float: left;
+  margin-left: 16px;
+}
+
+div.home-alt-footer {
+  width: 45%;
+  float: left;
+  margin-left: 16px;
+}
+
 header#hp-banner {
   width: 100%;
   text-transform: lowercase;

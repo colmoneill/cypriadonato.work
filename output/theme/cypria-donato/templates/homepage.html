@@ -1,9 +1,12 @@
 {% extends "base.html" %}
 {% block title %}{{ SITENAME }}{%endblock%}
 {% block alt %}
-{{page.slider_imgs}}
+<div class="half">
+<img class="img-home-half" src="images/colo.png">
+</div>
 {% endblock alt %}
 {% block nav %}
+<div class="half-">
 <header id="hp-banner" class="body">
   <nav><ul>
   {% if DISPLAY_PAGES_ON_MENU -%}
@@ -23,4 +26,10 @@
   <h1><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1>
   <sub>{% if SITESUBTITLE %}{{ SITESUBTITLE }}{% endif %}</sub>
 </header><!-- /#banner -->
+</div>
 {% endblock nav %}
+{% block footer %}
+<div class="home-alt-footer">
+alt footer
+</div>
+{% endblock footer %}
