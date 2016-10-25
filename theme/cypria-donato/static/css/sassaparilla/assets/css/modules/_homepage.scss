@@ -1,0 +1,29 @@
+div.home-left{
+  width: 100%;
+  min-height: 400px;
+  background-size: contain;
+  @include respond-to($c-vp){
+    float: left;
+    width: 50%;
+    margin-left: -8px;
+    margin-top: -40px;
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+}
+
+div.home-right{
+  @include respond-to($c-vp){
+    width: 49%;
+    float: right;
+  }
+}
+
+footer.home-footer{
+  @include respond-to($c-vp){
+    width: 49%;
+    float: right;
+  }
+}

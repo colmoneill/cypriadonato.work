@@ -943,6 +943,56 @@ footer#main-footer p a {
   color: #777;
 }
 
+div.home-left {
+  width: 100%;
+  min-height: 400px;
+  background-size: contain;
+}
+.lt-ie9 div.home-left {
+  float: left;
+  width: 50%;
+  margin-left: -8px;
+  margin-top: -40px;
+  min-height: 100vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+@media screen and (min-width: 600px) {
+  div.home-left {
+    float: left;
+    width: 50%;
+    margin-left: -8px;
+    margin-top: -40px;
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+}
+
+.lt-ie9 div.home-right {
+  width: 49%;
+  float: right;
+}
+@media screen and (min-width: 600px) {
+  div.home-right {
+    width: 49%;
+    float: right;
+  }
+}
+
+.lt-ie9 footer.home-footer {
+  width: 49%;
+  float: right;
+}
+@media screen and (min-width: 600px) {
+  footer.home-footer {
+    width: 49%;
+    float: right;
+  }
+}
+
 header#hp-banner {
   width: 100%;
   text-transform: lowercase;
