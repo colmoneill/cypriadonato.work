@@ -6,5 +6,3 @@ only_img: images/visuel_HD_03.jpg
 link_to_project: putain.html
 
 <!-- cette page ne rendra pas de contenu texte, elle sert juste la page d'accueil, donc juste le gif ici. -->
-
-![alt](images/visuel_HD_01.jpg)
