@@ -1,12 +1,7 @@
 {% extends "base.html" %}
 {% block title %}{{ SITENAME }}{%endblock%}
-{% block alt %}
-<div class="half">
-<img class="img-home-half" src="images/colo.png">
-</div>
-{% endblock alt %}
 {% block nav %}
-<div class="half-">
+<div class="home-right">
 <header id="hp-banner" class="body">
   <nav><ul>
   {% if DISPLAY_PAGES_ON_MENU -%}
@@ -28,8 +23,12 @@
 </header><!-- /#banner -->
 </div>
 {% endblock nav %}
-{% block footer %}
-<div class="home-alt-footer">
-alt footer
+{% block content %}
+<div class="home-left" style="background-image: url({{page.only_img}});">
 </div>
+{% endblock content %}
+{% block footer %}
+<footer class="home-footer">
+  alt footer
+</footer>
 {% endblock footer %}
