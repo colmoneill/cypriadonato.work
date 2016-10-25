@@ -1,0 +1,33 @@
+{% for article in articles_page.object_list %}
+<div class="row-parent">
+  <div class="row">
+    <div class="row__colspaced">
+        <li class="project-entry">
+          <article class="hentry">
+            <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">
+              <div class="{{ loop.cycle('colspan12-6 colspan6-3 colspan2-2 odd ', 'colspan12-6 colspan6-3 colspan2-2 even')}} as-grid with-gutter">
+                {% if article.featured_image %}
+                <div class="hero-img" style="background: url({{ article.featured_image }});background-size: cover;background-position: center center;">
+                </div>
+                {% else %}
+                <div class="img-placeholder">
+                  <h1 class="entry-title-placeholder">{{ article.title }}</h1>
+                  <h3 class="project-projectdate-placeholder">{{ article.projectdate }}</h3>
+                </div>
+                {% endif %}
+              </div>
+              <div class="{{ loop.cycle('colspan12-6 colspan6-3 colspan2-2 text-odd ', 'colspan12-6 colspan6-3 colspan2-2 even')}} as-grid with-gutter">
+                <h1 class="entry-title">{{ article.title }}</h1>
+                <h2 class="project-type">{{ article.type }}</h2>
+                <h2 class="project-methode">{{ article.methode }}</h2>
+                <h3 class="project-longueur">{{ article.longueur }}</h3>
+                <h3 class="project-projectdate">{{ article.projectdate }}</h3>
+                {% if article.summary %}<div class="entry-content">{{ article.summary }}</div>{% endif %}<!-- /.entry-content -->
+              </div>
+            </a>
+          </article>
+        </li>
+    </div>
+  </div>
+</div>
+{% endfor %}
