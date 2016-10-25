@@ -1,0 +1,27 @@
+li.blog-entry{
+  background-color: lightgrey;
+  margin-bottom: $bfs/2;
+  padding: $bfs/2;
+  list-style-type: none;
+  article.hentry{
+    header{
+      border-bottom: 3px solid black;
+      h2{
+        font-family: $hk-bold;
+        font-size: $epsilon;
+        color: grey;
+      }
+      h2:before{
+        content: "— ";
+        color: $jack-black;
+      }
+    }
+    div.entry-content{
+      margin-bottom: $bfs/2;
+    }
+    footer{
+      font-size: $kappa;
+      color: grey;
+    }
+  }
+}

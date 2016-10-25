@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+{% block title %}{{ SITENAME }}{%endblock%}
+{% block nav %}
+<div class="home-right">
+<header id="hp-banner" class="body">
+  <nav><ul>
+  {% if DISPLAY_PAGES_ON_MENU -%}
+  {% for pg in PAGES %}
+      <li{% if pg == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ pg.url }}">{{ pg.title }}</a></li>
+  {% endfor %}
+  {% endif %}
+  {% if DISPLAY_CATEGORIES_ON_MENU -%}
+  {% for cat, null in categories %}
+      <li{% if cat == category %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
+  {% endfor %}
+  {% endif %}
+  {% for title, link in MENUITEMS %}
+      <li><a href="{{ link }}">{{ title }}</a></li>
+  {% endfor %}
+  </ul></nav>
+  <h1><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1>
+  <sub>{% if SITESUBTITLE %}{{ SITESUBTITLE }}{% endif %}</sub>
+</header><!-- /#banner -->
+</div>
+{% endblock nav %}
+{% block content %}
+<a class="homepage-link" href="{{page.link_to_project}}">
+<div class="home-left" style="background-image: url({{page.only_img}});">
+</div>
+</a>
+{% endblock content %}
+{% block footer %}
+<footer class="home-footer">
+  <footer id="main-footer">
+    <p>all images extracts from animation projects, please respect applied licencing accordingly, or get in touch for usage agreements</p>
+    <p>website based off of <a href="http://blog.getpelican.com/">Pelican</a> scripts. Design & dev by <a href="http://colm.be">Colm</a>.</p>
+    <p>site réalisé avec l'aide de la ... </p>
+    <p>Cypria Donato</p>
+  </footer>
+</footer>
+{% endblock footer %}
