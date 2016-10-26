@@ -54,5 +54,5 @@ CATEGORY_SAVE_AS = '{slug}.html'
 ##--------------------
 ### PLUGINS ###
 
-PLUGIN_PATHS = ["output/plugins"]
+PLUGIN_PATHS = ["plugins"]
 PLUGINS = ['representative_image', 'collate_content']
