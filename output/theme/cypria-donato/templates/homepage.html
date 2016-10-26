@@ -1,12 +1,7 @@
 {% extends "base.html" %}
 {% block title %}{{ SITENAME }}{%endblock%}
-{% block alt %}
-<div class="half">
-<img class="img-home-half" src="images/colo.png">
-</div>
-{% endblock alt %}
 {% block nav %}
-<div class="half-">
+<div class="home-right">
 <header id="hp-banner" class="body">
   <nav><ul>
   {% if DISPLAY_PAGES_ON_MENU -%}
@@ -28,8 +23,19 @@
 </header><!-- /#banner -->
 </div>
 {% endblock nav %}
-{% block footer %}
-<div class="home-alt-footer">
-alt footer
+{% block content %}
+<a class="homepage-link" href="{{page.link_to_project}}">
+<div class="home-left" style="background-image: url({{page.only_img}});">
 </div>
+</a>
+{% endblock content %}
+{% block footer %}
+<footer class="home-footer">
+  <footer id="main-footer">
+    <p>all images extracts from animation projects, please respect applied licencing accordingly, or get in touch for usage agreements</p>
+    <p>website based off of <a href="http://blog.getpelican.com/">Pelican</a> scripts. Design & dev by <a href="http://colm.be">Colm</a>.</p>
+    <p>site réalisé avec l'aide de la ... </p>
+    <p>Cypria Donato</p>
+  </footer>
+</footer>
 {% endblock footer %}

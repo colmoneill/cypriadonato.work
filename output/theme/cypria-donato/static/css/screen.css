@@ -93,6 +93,7 @@ body {
   background: #fff;
   color: #333;
   padding: 8px;
+  padding-bottom: 0px;
   width: 100%;
 }
 
@@ -943,28 +944,81 @@ footer#main-footer p a {
   color: #777;
 }
 
-div.half {
-  margin-top: -8px;
-  margin-left: -8px;
-  width: calc(50% + 8px);
-  float: left;
-  height: 100vh;
-}
-div.half img.img-home-half {
+div.home-left {
   width: 100%;
-  height: 100%;
+  min-height: 250px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.lt-ie9 div.home-left {
+  float: left;
+  width: 100%;
+  min-height: 100vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+@media screen and (min-width: 600px) {
+  div.home-left {
+    float: left;
+    width: 100%;
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
 }
 
-div.half- {
-  width: 45%;
-  float: left;
-  margin-left: 16px;
+.lt-ie9 div.home-right {
+  width: 49%;
+  float: right;
+}
+.lt-ie9 div.home-right h1 {
+  margin-top: 192px;
+}
+@media screen and (min-width: 600px) {
+  div.home-right {
+    width: 49%;
+    float: right;
+  }
+  div.home-right h1 {
+    margin-top: 192px;
+  }
 }
 
-div.home-alt-footer {
-  width: 45%;
+.lt-ie9 a.homepage-link {
+  display: block;
+  width: 50%;
+  height: 100vh;
+  margin-top: -40px;
+  margin-left: -8px;
   float: left;
-  margin-left: 16px;
+}
+@media screen and (min-width: 600px) {
+  a.homepage-link {
+    display: block;
+    width: 50%;
+    height: 100vh;
+    margin-top: -40px;
+    margin-left: -8px;
+    float: left;
+  }
+}
+
+footer.home-footer {
+  float: left;
+}
+.lt-ie9 footer.home-footer {
+  width: 49%;
+  padding-left: 16px;
+  margin-top: 128px;
+}
+@media screen and (min-width: 600px) {
+  footer.home-footer {
+    width: 49%;
+    padding-left: 16px;
+    margin-top: 128px;
+  }
 }
 
 header#hp-banner {

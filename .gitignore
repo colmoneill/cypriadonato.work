@@ -3,3 +3,4 @@ venv/
 *.pid
 *.pyc
 pelicanconf.pyc
+*.sh
