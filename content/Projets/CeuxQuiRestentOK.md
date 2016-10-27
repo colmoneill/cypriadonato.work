@@ -2,7 +2,7 @@ Title: Ceux qui restent
 Date: 2016-10-27
 Type: Installation and shortfilm
 Methode: live action movie, performance art
-Image: images/CeuxQuiRestent/dossier_image13.jpg
+Image: images/CeuxQuiRestent/dossier_image13.JPG
 Projectdate: 2016
 
 
@@ -18,8 +18,8 @@ It was a first draft, and we were not satisfied with it. The search continues.
 
 ![pola01](images/CeuxQuiRestent/pola_160423_1.jpg){:.half}
 ![pola02](images/CeuxQuiRestent/pola_160423_2.jpg){:.half}
-![ink01](images/CeuxQuiRestent/dessin_01.jpg){:.full}
-![ink02](images/CeuxQuiRestent/dessin_02.jpg)
+![ink01](images/CeuxQuiRestent/dessin_01.jpg)
+![ink02](images/CeuxQuiRestent/dessin_02.jpg){:.full}
 ![ink03](images/CeuxQuiRestent/dessin_03.jpg)
 ![ink04](images/CeuxQuiRestent/dessin_04.jpg){:.quart}
 ![ink05](images/CeuxQuiRestent/dessin_05.jpg){:.quart}
@@ -31,6 +31,8 @@ It was a first draft, and we were not satisfied with it. The search continues.
 ## Series
 We decided to make a short 12 episodes series out the testimonies we gathered so far. One episode, one person.
 [First episode is already out !](https://vimeo.com/188686036) Stay tuned for more !
+
+<iframe src="https://player.vimeo.com/video/188686036" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ![photo01](images/CeuxQuiRestent/dossier_image01.jpg)
 ![photo02](images/CeuxQuiRestent/dossier_image03.jpg)
