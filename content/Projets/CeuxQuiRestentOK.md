@@ -1,3 +1,11 @@
+Title : Ceux qui restent
+Date : 2016-10-27
+Type : Installation and shortfilm
+Methode : live action movie, performance art
+Image : /images/CeuxQuiRestent/dossier_image13.jpg
+Projectdate : 2016
+
+
 # CEUX QUI RESTENT – THOSE WHO REMAIN
 When my friend [Amaury Vanderborght](https://www.amaury-vdb.com/), acrobat, came to me with this idea, I was thrilled ! 
 He was working on the theme of collective and intimate memory, and wanted to explore this subject in a visual way, beside the show he is preparing in 2017.
