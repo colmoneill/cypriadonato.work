@@ -1040,12 +1040,14 @@ footer#main-footer p a {
 }
 
 div.home-left {
+  padding: 8px;
   width: 100%;
   min-height: 250px;
   background-size: contain;
   background-repeat: no-repeat;
 }
 .lt-ie9 div.home-left {
+  padding: none;
   float: left;
   width: 100%;
   min-height: 100vh;
@@ -1055,6 +1057,7 @@ div.home-left {
 }
 @media screen and (min-width: 600px) {
   div.home-left {
+    padding: none;
     float: left;
     width: 100%;
     min-height: 100vh;
@@ -1064,7 +1067,11 @@ div.home-left {
   }
 }
 
+div.home-right {
+  padding: 8px;
+}
 .lt-ie9 div.home-right {
+  padding: none;
   width: 49%;
   float: right;
 }
@@ -1073,6 +1080,7 @@ div.home-left {
 }
 @media screen and (min-width: 600px) {
   div.home-right {
+    padding: none;
     width: 49%;
     float: right;
   }
