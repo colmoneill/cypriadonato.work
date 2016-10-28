@@ -1150,6 +1150,15 @@ header#hp-banner sub {
 header#hp-banner ul {
   font-family: "hk_groteskmedium";
   margin-bottom: 32px;
+  border-bottom: 1px solid #777;
+}
+.lt-ie9 header#hp-banner ul {
+  border-bottom: none;
+}
+@media screen and (min-width: 600px) {
+  header#hp-banner ul {
+    border-bottom: none;
+  }
 }
 header#hp-banner ul li {
   margin-right: 8px;
@@ -1172,6 +1181,15 @@ header#banner h1 {
 header#banner ul {
   font-family: "hk_groteskmedium";
   margin-bottom: 16px;
+  border-bottom: 1px solid #777;
+}
+.lt-ie9 header#banner ul {
+  border-bottom: none;
+}
+@media screen and (min-width: 600px) {
+  header#banner ul {
+    border-bottom: none;
+  }
 }
 header#banner ul li {
   margin-right: 8px;
