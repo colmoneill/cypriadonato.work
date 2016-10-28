@@ -3,7 +3,7 @@
 {% block nav %}
 <div class="home-right">
 <header id="hp-banner" class="body">
-  <nav><ul>
+  <nav class="nav-collapse"><ul>
   {% if DISPLAY_PAGES_ON_MENU -%}
   {% for pg in PAGES %}
       <li{% if pg == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ pg.url }}">{{ pg.title }}</a></li>
