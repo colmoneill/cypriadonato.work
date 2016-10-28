@@ -1045,6 +1045,7 @@ div.home-left {
   min-height: 250px;
   background-size: contain;
   background-repeat: no-repeat;
+  background-size: cover;
 }
 .lt-ie9 div.home-left {
   padding: none;
@@ -1150,6 +1151,10 @@ header#hp-banner ul {
   font-family: "hk_groteskmedium";
   margin-bottom: 32px;
 }
+header#hp-banner ul li {
+  margin-right: 8px;
+  height: 32px;
+}
 
 header#banner {
   width: 100%;
@@ -1167,6 +1172,10 @@ header#banner h1 {
 header#banner ul {
   font-family: "hk_groteskmedium";
   margin-bottom: 16px;
+}
+header#banner ul li {
+  margin-right: 8px;
+  height: 32px;
 }
 
 .lt-ie9 header ul li {
