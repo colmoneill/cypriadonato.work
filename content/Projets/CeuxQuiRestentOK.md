@@ -4,6 +4,7 @@ Type: Installation and shortfilm
 Methode: live action movie, performance art
 Image: images/CeuxQuiRestent/dossier_image13.JPG
 Projectdate: 2016
+Summary: An ongoing documentary project. Using different mediums, the objective is to collect and transform fragile individual memories, that are meant to disappear.
 
 
 # CEUX QUI RESTENT – THOSE WHO REMAIN
