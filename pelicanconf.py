@@ -42,7 +42,8 @@ DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = (('Projets', 'projets.html'),
              ('Contact', 'contact.html'),
-             ('Blog', 'blog.html'),)
+             ('Blog', 'blog.html'),
+             ('Book', 'book.html'),)
 
 
 ##--------------------
