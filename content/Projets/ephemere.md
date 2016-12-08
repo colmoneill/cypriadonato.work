@@ -2,7 +2,7 @@ Title: ÉPHÉMÈRE
 Type: performance
 Methode: 2D animation, dance
 Date: 2014-04-01
-Image: images/Ephemere/ephemere_affiche.jpg
+Image: images/Ephemere/danse_recherche_perso01.jpg
 Projectdate: 2014
 Summary:
 

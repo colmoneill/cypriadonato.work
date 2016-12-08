@@ -7,7 +7,7 @@ Projectdate: 2012
 Longueur: 07'12''
 Summary: During my second year in school, I made my first transmedia experiment, working with both animation and acrobatics.
 
-#POSSIBLE
+# POSSIBLE
 
 During my second year in school, I made my first transmedia experiment, working with both animation and acrobatics.
 

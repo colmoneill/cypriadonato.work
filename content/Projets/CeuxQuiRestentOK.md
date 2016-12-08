@@ -13,6 +13,19 @@ He was working on the theme of collective and intimate memory, and wanted to exp
 
 "Ceux qui restent" is an ongoing documentary project, using different mediums. Whether it is visual arts, cinema, acrobatics that we use, the core is always testimonies of old people. We want to collect and transform this fragile individual memories, that are meant to disappear.
 
+## Film & Workshop
+In november 2016, we did a workshop in Paris with Maif Social Club. The result is a short film. Here is the trailer !
+<iframe src="https://player.vimeo.com/video/191042917" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/191042917">TEASER_Ceux qui restent - atelier MAIF</a> from <a href="https://vimeo.com/cypria">Cypria Donato</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+Check out [the event page !](https://www.facebook.com/CeuxQuiRestent/)
+
+![recherchesPhotos](images/CeuxQuiRestent/pola_recherches.jpg){:.half}
+![recherchesDessins](images/CeuxQuiRestent/DSC_0080.jpg){:.half}
+![Premier Dossier](images/CeuxQuiRestent/presentation_projet_01.jpg)
+![Premier Dossier](images/CeuxQuiRestent/presentation_projet_03.jpg){:.full}
+![Nous](images/CeuxQuiRestent/artistes.jpg)
+
+
 ## Installation
 During the "Match" exposition at Bozar on may 7th 2016, we presented  a first installation version. As a film of different testimonies was screened, I was drawing on top of the projection using tracing paper and ink, and Amaury  was retyping what was said in the film. The result was a room filled in papers, quotes and drawings.
 It was a first draft, and we were not satisfied with it. The search continues.
@@ -47,12 +60,3 @@ We decided to make a short 12 episodes series out the testimonies we gathered so
 ![photo10](images/CeuxQuiRestent/dossier_image13.jpg)
 ![photo11](images/CeuxQuiRestent/dossier_image14.jpg)
 
-## Film & Workshop
-In november 2016, we will be doing a workshop in Paris with Maif Social Club. The result will be a short film, coming out december 15th.
-Check out [the event page !](https://www.facebook.com/CeuxQuiRestent/)
-
-![recherchesPhotos](images/CeuxQuiRestent/pola_recherches.jpg){:.half}
-![recherchesDessins](images/CeuxQuiRestent/DSC_0080.jpg){:.half}
-![Premier Dossier](images/CeuxQuiRestent/presentation_projet_01.jpg)
-![Premier Dossier](images/CeuxQuiRestent/presentation_projet_03.jpg){:.full}
-![Nous](images/CeuxQuiRestent/artistes.jpg)
