@@ -2,7 +2,7 @@ Title: First article
 Date: 2016-07-10
 save_as: index.html
 Template: homepage
-only_img: images/site_accueil_putain2.jpg
+only_img: content/images/site_accueil_putain2.jpg
 link_to_project: putain.html
-background_color: 00AEB0
+background_color: 30aea0
 <!-- cette page ne rendra pas de contenu texte, elle sert juste la page d'accueil, donc juste le gif ici. -->
