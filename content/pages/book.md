@@ -3,14 +3,22 @@ Date: 2016-11-17
 save_as: book.html
 Template: book
 
-![pola01](images/CeuxQuiRestent/pola_160423_1.jpg){:.half}
-![pola02](images/CeuxQuiRestent/pola_160423_2.jpg){:.half}
-![ink01](images/CeuxQuiRestent/dessin_01.jpg)
-![ink02](images/CeuxQuiRestent/dessin_02.jpg){:.full}
-![ink03](images/CeuxQuiRestent/dessin_03.jpg)
-![ink04](images/CeuxQuiRestent/dessin_04.jpg){:.quart}
-![ink05](images/CeuxQuiRestent/dessin_05.jpg){:.quart}
-![ink06](images/CeuxQuiRestent/dessin_06.jpg){:.quart}
-![ink07](images/CeuxQuiRestent/dessin_07.jpg){:.quart}
-![ink08](images/CeuxQuiRestent/dessin_08.jpg)
-![ink09](images/CeuxQuiRestent/dessin_09.jpg)
+## DEMOREEL
+<iframe src="https://player.vimeo.com/video/145854974" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/145854974">DEMOREEL_2015</a> from <a href="https://vimeo.com/cypria">Cypria Donato</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+
+![image01](images/book/recherches_aquarelle.jpg){:.half}
+![image02](images/book/DSC_0080.jpg){:.half}
+![image03](images/book/plan2_dos_002.jpg){:.half}
+![image04](images/book/putain_03.jpg){:.full}
+![image05](images/book/perso_page_05.jpg)
+![image06](images/book/test_avantbras.jpg){:.quart}
+![image07](images/book/test_bustefemme.jpg){:.quart}
+![image08](images/book/test_avantbras2.jpg){:.quart}
+![image09](images/book/genre_print_02.jpg){:.half}
+![image10](images/book/genre_print_03.jpg){:.half}
+![image11](images/book/recherches_flore.jpg){:.full}
+![image12](images/book/MAISON_JARDIN.jpg){:.full}
+![image13](images/book/bulles.jpg){:.half}
+![image14](images/book/menu_effet.jpg){:.full}
