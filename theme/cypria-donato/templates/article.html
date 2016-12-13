@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% block head %}
+  {{ super() }}
+  {% if article.description %}
+    <meta name="description" content="{{article.description}}" />
+  {% endif %}
+
+  {% for tag in article.tags %}
+    <meta name="tags" content="{{tag}}" />
+  {% endfor %}
+
+{% endblock %}
+
+{% block content %}
+<div class="row-parent">
+<section id="content" class="body">
+  <header>
+ {% import 'translations.html' as translations with context %}
+ {{ translations.translations_for(article) }}
+  </header>
+  <div class="entry-content article">
+    <div class="row">
+    {{ article.content }}
+    <hr>
+    <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
+       title="Permalink to {{ article.title|striptags }}">Permalink to this page</a>
+  </div>
+  </div><!-- /.entry-content -->
+</section>
+</div>
+{% endblock %}

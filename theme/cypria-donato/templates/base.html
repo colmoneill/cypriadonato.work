@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="{{ DEFAULT_LANG }}">
+<head>
+        {% block head %}
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		    <meta name="viewport" content="initial-scale=1">
+        <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
+        <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/{{ CSS_FILE }}" />
+        <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/responsive-nav.js"></script>
+        <meta charset="utf-8" />
+        {% if FEED_ALL_ATOM %}
+        <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Full Atom Feed" />
+        {% endif %}
+        {% if FEED_ALL_RSS %}
+        <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Full RSS Feed" />
+        {% endif %}
+        {% if FEED_ATOM %}
+        <link href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom Feed" />
+        {% endif %}
+        {% if FEED_RSS %}
+        <link href="{{ FEED_DOMAIN }}/{{ FEED_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" />
+        {% endif %}
+        {% if CATEGORY_FEED_ATOM and category %}
+        <link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_ATOM|format(category.slug) }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Categories Atom Feed" />
+        {% endif %}
+        {% if CATEGORY_FEED_RSS and category %}
+        <link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_RSS|format(category.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Categories RSS Feed" />
+        {% endif %}
+        {% if TAG_FEED_ATOM and tag %}
+        <link href="{{ FEED_DOMAIN }}/{{ TAG_FEED_ATOM|format(tag.slug) }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Tags Atom Feed" />
+        {% endif %}
+        {% if TAG_FEED_RSS and tag %}
+        <link href="{{ FEED_DOMAIN }}/{{ TAG_FEED_RSS|format(tag.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Tags RSS Feed" />
+        {% endif %}
+        {% endblock head %}
+</head>
+
+<body id="index" class="home">
+{% block alt %}
+{% endblock alt %}
+{% block nav %}
+<div class="row-parent">
+  <div class="row">
+  <header id="banner" class="body">
+          <h1><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1>
+          <nav class="nav-collapse"><ul>
+          {% if DISPLAY_PAGES_ON_MENU -%}
+          {% for pg in PAGES %}
+              <li{% if pg == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ pg.url }}">{{ pg.title }}</a></li>
+          {% endfor %}
+          {% endif %}
+          {% if DISPLAY_CATEGORIES_ON_MENU -%}
+          {% for cat, null in categories %}
+              <li{% if cat == category %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
+          {% endfor %}
+          {% endif %}
+          {% for title, link in MENUITEMS %}
+              <li><a href="{{ link }}">{{ title }}</a></li>
+          {% endfor %}
+          </ul></nav>
+  </header><!-- /#banner -->
+          {% endblock nav %}
+    </div>
+  </div>
+        <section id="content">
+        {% block content %}
+        {% endblock %}
+        </section>
+        <div class="row-parent">
+          <div class="row">
+        {% block footer %}
+        <footer id="main-footer">
+          <p>avec l'aide du Centre du Cinéma et de l'Audiovisuel de la Fédération Wallonie-Bruxelles</p>
+          <p><a href="https://github.com/colmoneill/cypriadonato.work">website</a> based on <a href="http://blog.getpelican.com/">Pelican</a>, design & development by <a href="http://colm.be">Colm</a>.</p>
+          <img class="footer-logo" src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/imgs/FWB.png">
+        </footer>
+        {% endblock footer %}
+      </div>
+    </div>
+    <script>
+      var navigation = responsiveNav(".nav-collapse", {
+        animate: true,                    // Boolean: Use CSS3 transitions, true or false
+        transition: 284,                  // Integer: Speed of the transition, in milliseconds
+        label: "",                    // String: Label for the navigation toggle
+        insert: "after",                  // String: Insert the toggle before or after the navigation
+        customToggle: "",                 // Selector: Specify the ID of a custom toggle
+        closeOnNavClick: false,           // Boolean: Close the navigation when one of the links are clicked
+        openPos: "relative",              // String: Position of the opened nav, relative or static
+        navClass: "nav-collapse",         // String: Default CSS class. If changed, you need to edit the CSS too!
+        navActiveClass: "js-nav-active",  // String: Class that is added to <html> element when nav is active
+        jsClass: "js",                    // String: 'JS enabled' class which is added to <html> element
+        init: function(){},               // Function: Init callback
+        open: function(){},               // Function: Open callback
+        close: function(){}               // Function: Close callback
+      });
+    </script>
+</body>
+</html>
