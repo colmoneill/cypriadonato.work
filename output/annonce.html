@@ -1,50 +1,73 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-          <title>Cypria Donato</title>
+          <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		    <meta name="viewport" content="initial-scale=1">
+        <title>Cypria Donato</title>
+        <link rel="stylesheet" href="./theme/css/screen.css" />
+        <script src="./theme/js/responsive-nav.js"></script>
         <meta charset="utf-8" />
-        <link href="http://cypriadonato.work/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Cypria Donato Full Atom Feed" />
-        <link href="http://cypriadonato.work/feeds/blog.atom.xml" type="application/atom+xml" rel="alternate" title="Cypria Donato Categories Atom Feed" />
-
 
 
 
 </head>
 
 <body id="index" class="home">
-        <header id="banner" class="body">
-                <h1><a href="http://cypriadonato.work/">Cypria Donato <strong>Animation Artist</strong></a></h1>
-        </header><!-- /#banner -->
-        <nav id="menu"><ul>
-            <li><a href="projets.html">Projects</a></li>
-            <li><a href="book.html">Book</a></li>
-            <li><a href="contact.html">Contact</a></li>
-            <li><a href="blog.html">Blog</a></li>
-        </ul></nav><!-- /#menu -->
+<div class="row-parent">
+  <div class="row">
+  <header id="banner" class="body">
+          <h1><a href="./">Cypria Donato</a></h1>
+          <nav class="nav-collapse"><ul>
+              <li><a href="projets.html">Projects</a></li>
+              <li><a href="book.html">Book</a></li>
+              <li><a href="contact.html">Contact</a></li>
+              <li><a href="blog.html">Blog</a></li>
+          </ul></nav>
+  </header><!-- /#banner -->
+    </div>
+  </div>
+        <section id="content">
+<div class="row-parent">
 <section id="content" class="body">
   <header>
-    <h2 class="entry-title">
-      <a href="http://cypriadonato.work/annonce.html" rel="bookmark"
-         title="Permalink to annonce">annonce</a></h2>
  
   </header>
-  <footer class="post-info">
-    <abbr class="published" title="2016-09-19T00:00:00+02:00">
-      Mon 19 September 2016
-    </abbr>
-    <address class="vcard author">
-      By           <a class="url fn" href="http://cypriadonato.work/author/cypria-donato.html">Cypria Donato</a>
-    </address>
-  </footer><!-- /.post-info -->
-  <div class="entry-content">
+  <div class="entry-content article">
+    <div class="row">
     <p>content</p>
+    <hr>
+    <a href="./annonce.html" rel="bookmark"
+       title="Permalink to annonce">Permalink to this page</a>
+  </div>
   </div><!-- /.entry-content -->
 </section>
-        <footer id="contentinfo" class="body">
-                <address id="about" class="vcard body">
-                Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
-                which takes great advantage of <a href="http://python.org">Python</a>.
-                </address><!-- /#about -->
-        </footer><!-- /#contentinfo -->
+</div>
+        </section>
+        <div class="row-parent">
+          <div class="row">
+        <footer id="main-footer">
+          <p>avec l'aide du Centre du Cinéma et de l'Audiovisuel de la Fédération Wallonie-Bruxelles</p>
+          <p><a href="https://github.com/colmoneill/cypriadonato.work">website</a> based on <a href="http://blog.getpelican.com/">Pelican</a>, design & development by <a href="http://colm.be">Colm</a>.</p>
+          <img class="footer-logo" src="./theme/imgs/FWB.png">
+        </footer>
+      </div>
+    </div>
+    <script>
+      var navigation = responsiveNav(".nav-collapse", {
+        animate: true,                    // Boolean: Use CSS3 transitions, true or false
+        transition: 284,                  // Integer: Speed of the transition, in milliseconds
+        label: "",                    // String: Label for the navigation toggle
+        insert: "after",                  // String: Insert the toggle before or after the navigation
+        customToggle: "",                 // Selector: Specify the ID of a custom toggle
+        closeOnNavClick: false,           // Boolean: Close the navigation when one of the links are clicked
+        openPos: "relative",              // String: Position of the opened nav, relative or static
+        navClass: "nav-collapse",         // String: Default CSS class. If changed, you need to edit the CSS too!
+        navActiveClass: "js-nav-active",  // String: Class that is added to <html> element when nav is active
+        jsClass: "js",                    // String: 'JS enabled' class which is added to <html> element
+        init: function(){},               // Function: Init callback
+        open: function(){},               // Function: Open callback
+        close: function(){}               // Function: Close callback
+      });
+    </script>
 </body>
 </html>
