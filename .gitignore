@@ -4,3 +4,4 @@ venv/
 *.pyc
 pelicanconf.pyc
 *.sh
+output/*.html
