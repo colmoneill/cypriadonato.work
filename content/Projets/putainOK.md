@@ -5,7 +5,7 @@ Date: 2017-09-19
 Image: images/visuel_HD_01.jpg
 Projectdate: 2015
 Longueur: 05:15
-Summary : A voyage through the complex sensations experienced by six female characters in their daily life as prostitutes, and the ways their bodies are involved and exposed.
+Summary: A voyage through the complex sensations experienced by six female characters in their daily life as prostitutes, and the ways their bodies are involved and exposed.
 
 
 # PUTAIN
