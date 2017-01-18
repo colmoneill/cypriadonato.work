@@ -1,6 +1,6 @@
 *, *:before, *:after {
-  -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
   box-sizing: border-box;
 }
 
@@ -89,8 +89,8 @@ html {
 }
 
 body {
-  background: white;
-  color: #777777;
+  background: #fff;
+  color: #777;
 }
 
 a {
@@ -99,16 +99,6 @@ a {
 }
 a:hover, a:focus, a:active {
   color: #67b2b1;
-}
-a:not(> img) {
-  white-space: pre;
-  white-space: pre-wrap;
-  white-space: pre-line;
-  white-space: -pre-wrap;
-  white-space: -o-pre-wrap;
-  white-space: -moz-pre-wrap;
-  white-space: -hp-pre-wrap;
-  word-wrap: break-word;
 }
 
 /* ::Import styles */
