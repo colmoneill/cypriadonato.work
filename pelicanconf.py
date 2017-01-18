@@ -31,7 +31,7 @@ SOCIAL = (('You can add links in your config file', '#'),
 DEFAULT_PAGINATION = 10
 
 
-THEME = "output/theme/cypria-donato"
+THEME = "theme/cypria-donato"
 #THEME = "/usr/local/lib/python2.7/dist-packages/pelican/themes/notmyidea"
 #THEME = "/usr/local/lib/python2.7/dist-packages/pelican/themes/simple"
 CSS_FILE = 'screen.css'
