@@ -2,4 +2,58 @@
 // Navigation module (example)
 // ------------------------------------------------------------
 
-// Place your BEM/SMACSS style .scss modules in the modules folder
+/*! responsive-nav.js 1.0.39 by @viljamis */
+
+.nav-collapse {
+  ul {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    list-style: none;
+  }
+  li {
+    width: 100%;
+  }
+}
+
+.js .nav-collapse {
+  clip: rect(0 0 0 0);
+  max-height: 0;
+  position: absolute;
+  display: block;
+  overflow: hidden;
+  zoom: 1;
+}
+
+.nav-collapse.opened {
+  max-height: 9999px;
+}
+
+.nav-toggle {
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+  background: url("../fonts/hamburger.svg") no-repeat right top;
+  position: relative;
+  margin-top: 20px;
+  float: right;
+  width: 40px;
+  height: 30px;
+  padding: 15px;
+}
+
+@media screen and (min-width: 40em) {
+  .js .nav-collapse {
+    position: relative;
+    &.closed {
+      max-height: none;
+    }
+  }
+  .nav-toggle {
+    display: none;
+  }
+}
