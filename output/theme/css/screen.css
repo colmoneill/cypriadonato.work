@@ -595,6 +595,39 @@ li.project-entry div.img-placeholder h3 {
   text-align: center;
 }
 
+div.social-reel {
+  display: block;
+  margin-top: 16px;
+  width: 100%;
+  clear: both;
+}
+.lt-ie9 div.social-reel {
+  display: block;
+  width: 40%;
+  margin: 0 auto;
+  margin-top: 16px;
+}
+@media screen and (min-width: 600px) {
+  div.social-reel {
+    display: block;
+    width: 40%;
+    margin: 0 auto;
+    margin-top: 16px;
+  }
+}
+div.social-reel img.icon {
+  margin-right: 3%;
+  width: 15%;
+}
+.lt-ie9 div.social-reel img.icon {
+  width: 7% !important;
+}
+@media screen and (min-width: 600px) {
+  div.social-reel img.icon {
+    width: 7% !important;
+  }
+}
+
 /* ::Base styles */
 /* ------------------------------------------------------------ */
 html {
