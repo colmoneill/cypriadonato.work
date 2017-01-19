@@ -88,6 +88,7 @@
         {% block content %}
         {% endblock %}
         </section>
+        {% block grid %}
         <div class="row-parent">
           <div class="row">
         {% block footer %}
@@ -97,8 +98,9 @@
           <img class="footer-logo" src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/imgs/FWB.png">
         </footer>
         {% endblock footer %}
-      </div>
-    </div>
+          </div>
+        </div>
+        {% endblock %}
     <script>
       var navigation = responsiveNav(".nav-collapse", {
         animate: true,                    // Boolean: Use CSS3 transitions, true or false

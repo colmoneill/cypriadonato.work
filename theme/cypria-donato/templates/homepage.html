@@ -28,10 +28,12 @@ body {background-color:#{{page.background_color}} !important;}
 {% endblock nav %}
 {% block content %}
 <a class="homepage-link" href="{{page.link_to_project}}">
-<div class="home-left" style="background-image: url({{page.only_img}});">
+<div class="home-left" style="background-image: url({{page.only_img}}); z-index:9999;">
 </div>
 </a>
 {% endblock content %}
+{% block grid %}
+{% endblock %}
 {% block footer %}
 <footer class="home-footer">
   <footer id="main-footer">
