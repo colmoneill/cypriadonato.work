@@ -499,12 +499,6 @@ div.social-reel{
   margin-top: 16px;
   width: 100%;
   clear: both;
-  @include respond-to($c-vp){
-  display: block;
-  width: 40%;
-  margin: 0 auto;
-  margin-top: 16px;
-  }
   img.icon{
     margin-right: 3%;
     width: 15%;
@@ -512,5 +506,16 @@ div.social-reel{
     width: 7% !important;
     }
     //margin-bottom: 16px;
+  }
+}
+
+div.contact-page{
+  h2{
+    font-weight: bold;
+    font-size: 32px;
+  }
+  img.cv{
+    width: 100%;
+    margin-top:32px;
   }
 }

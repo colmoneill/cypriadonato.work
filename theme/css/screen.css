@@ -601,20 +601,6 @@ div.social-reel {
   width: 100%;
   clear: both;
 }
-.lt-ie9 div.social-reel {
-  display: block;
-  width: 40%;
-  margin: 0 auto;
-  margin-top: 16px;
-}
-@media screen and (min-width: 600px) {
-  div.social-reel {
-    display: block;
-    width: 40%;
-    margin: 0 auto;
-    margin-top: 16px;
-  }
-}
 div.social-reel img.icon {
   margin-right: 3%;
   width: 15%;
@@ -626,6 +612,15 @@ div.social-reel img.icon {
   div.social-reel img.icon {
     width: 7% !important;
   }
+}
+
+div.contact-page h2 {
+  font-weight: bold;
+  font-size: 32px;
+}
+div.contact-page img.cv {
+  width: 100%;
+  margin-top: 32px;
 }
 
 /* ::Base styles */
