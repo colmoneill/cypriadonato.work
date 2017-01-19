@@ -10,7 +10,7 @@ Summary: This is the story of a girl. This is the story of a man. There is a run
 # JEAN, FLORE, ETC
 
 ## ANIMATION & EDITING
-Summer 2012 : bachelor graduation was ahead and I was wondering what should I make for this special year. 
+Summer 2012 : bachelor graduation was ahead and I was wondering what should I make for this special year.
 When I first began animation, I was discovering contemporary dance and circus at the same time. For me, animation was all about movements. But studying animation, I came to realize that it is a very complex media, including in its process so much different disciplines. Like drawing, which was my first passion, but also cinema. For so many people, animation is a cinema genre. As I totally disagree with that view, still cinematographic techniques are an important part of the animation process.
 And the one thing that I love the most about cinema, is editing. So I started working on that, editing, assembling, confronting lots of videos, that I shot or found.
 ![still01](images/JeanFloreEtc/extrait2.jpg){:.half}
@@ -26,19 +26,23 @@ So animation is used as the place of fiction, and illustrates what is happening 
 ## SET & STOP-MOTION
 For the background I had the idea of wheel spinning city, but I didn't want it to be digital. I wanted to feel some texture, some fragility also, something "handmade". And most of all, some little lights that could illuminate the night scenes.
 I had the help of my friend Florent for the electric installation, and of [David Chambolle](http://ddc-pagaille.tumblr.com/), scenograph and animator, for the set design and building.
-
-Plans for the set
+---
+#### Plans for the set
 ![plan01](images/JeanFloreEtc/décor.jpg){:.full}
-Building the set
-![set01](images/JeanFloreEtc/P1250283.jpg){:.half}
-![set02](images/JeanFloreEtc/P1250457.jpg){:.half}
+
+#### Building the set
+![set01](images/JeanFloreEtc/P1250283.JPG){:.half}
+![set02](images/JeanFloreEtc/P1250457.JPG){:.half}
+
 Those street lamps were crazily tiny. It took us a whole day and night.
-![set03](images/JeanFloreEtc/P1250650.jpg){:.half}
-![set04](images/JeanFloreEtc/P1250667.jpg){:.half}
-![set05](images/JeanFloreEtc/P1250677.jpg){:.half}
+![set03](images/JeanFloreEtc/P1250650.JPG){:.half}
+![set04](images/JeanFloreEtc/P1250667.JPG){:.half}
+![set05](images/JeanFloreEtc/P1250677.JPG){:.half}
+
 But it looked good with the lights inside
-![set06](images/JeanFloreEtc/P1250684.jpg){:.full}
-![set07](images/JeanFloreEtc/P1250704.jpg){:.full}
+![set06](images/JeanFloreEtc/P1250684.JPG){:.full}
+![set07](images/JeanFloreEtc/P1250704.JPG){:.full}
+
 Ready for shooting
-![set08](images/JeanFloreEtc/P1250791.jpg){:.full}
-![set09](images/JeanFloreEtc/P1250845.jpg){:.full}
+![set08](images/JeanFloreEtc/P1250791.JPG){:.full}
+![set09](images/JeanFloreEtc/P1250845.JPG){:.full}
