@@ -8,7 +8,7 @@ Summary: An ongoing documentary project. Using different mediums, the objective 
 
 
 # CEUX QUI RESTENT – THOSE WHO REMAIN
-When my friend [Amaury Vanderborght](https://www.amaury-vdb.com/), an acrobat, came to me with this idea, I over the moon.
+When my friend [Amaury Vanderborght](https://www.amaury-vdb.com/), an acrobat, came to me with this idea, I was over the moon.
 He was working on the topic of collective and intimate memory. He wanted to explore this subject in a visual way, aside from the show he is preparing in 2017.
 
 "Ceux qui restent" is an ongoing documentary project, employing different mediums. Whether we use visual arts, cinema, acrobatics, the core is always testimonies of third-generation people. We want to collect and transform these fragile individual memories, that are destined to disappear.
