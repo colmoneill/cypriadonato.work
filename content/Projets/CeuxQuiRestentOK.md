@@ -16,11 +16,10 @@ He was working on the theme of collective and intimate memory, and wanted to exp
 ## Film & Workshop
 In november 2016, we did a workshop in Paris with Maif Social Club. The result is a short film. Here is the trailer !
 <iframe src="https://player.vimeo.com/video/191042917" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/191042917">TEASER_Ceux qui restent - atelier MAIF</a> from <a href="https://vimeo.com/cypria">Cypria Donato</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 Check out [the event page !](https://www.facebook.com/CeuxQuiRestent/)
 
 ![recherchesPhotos](images/CeuxQuiRestent/pola_recherches.jpg){:.half}
-![recherchesDessins](images/CeuxQuiRestent/DSC_0080.jpg){:.half}
+![recherchesDessins](images/CeuxQuiRestent/DSC_0080.JPG){:.half}
 ![Premier Dossier](images/CeuxQuiRestent/presentation_projet_01.jpg)
 ![Premier Dossier](images/CeuxQuiRestent/presentation_projet_03.jpg){:.full}
 ![Nous](images/CeuxQuiRestent/artistes.jpg)
@@ -45,18 +44,16 @@ It was a first draft, and we were not satisfied with it. The search continues.
 ## Series
 We decided to make a short 12 episodes series out the testimonies we gathered so far. One episode, one person.
 [First episode is already out !](https://vimeo.com/188686036) Stay tuned for more !
-
 <iframe src="https://player.vimeo.com/video/188686036" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-![photo01](images/CeuxQuiRestent/dossier_image01.jpg)
-![photo02](images/CeuxQuiRestent/dossier_image03.jpg)
-![photo03](images/CeuxQuiRestent/dossier_image04.jpg)
-![photo04](images/CeuxQuiRestent/dossier_image05.jpg)
-![photo05](images/CeuxQuiRestent/dossier_image06.jpg)
-![photo06](images/CeuxQuiRestent/dossier_image07.jpg)
-![photo07](images/CeuxQuiRestent/dossier_image09.jpg)
-![photo08](images/CeuxQuiRestent/dossier_image10.jpg)
-![photo09](images/CeuxQuiRestent/dossier_image11.jpg)
-![photo10](images/CeuxQuiRestent/dossier_image13.jpg)
-![photo11](images/CeuxQuiRestent/dossier_image14.jpg)
-
+![photo01](images/CeuxQuiRestent/dossier_image01.JPG)
+![photo02](images/CeuxQuiRestent/dossier_image03.JPG)
+![photo03](images/CeuxQuiRestent/dossier_image04.JPG)
+![photo04](images/CeuxQuiRestent/dossier_image05.JPG)
+![photo05](images/CeuxQuiRestent/dossier_image06.JPG)
+![photo06](images/CeuxQuiRestent/dossier_image07.JPG)
+![photo07](images/CeuxQuiRestent/dossier_image09.JPG)
+![photo08](images/CeuxQuiRestent/dossier_image10.JPG)
+![photo09](images/CeuxQuiRestent/dossier_image11.JPG)
+![photo10](images/CeuxQuiRestent/dossier_image13.JPG)
+![photo11](images/CeuxQuiRestent/dossier_image14.JPG)
