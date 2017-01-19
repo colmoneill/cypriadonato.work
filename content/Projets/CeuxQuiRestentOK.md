@@ -8,13 +8,13 @@ Summary: An ongoing documentary project. Using different mediums, the objective 
 
 
 # CEUX QUI RESTENT – THOSE WHO REMAIN
-When my friend [Amaury Vanderborght](https://www.amaury-vdb.com/), acrobat, came to me with this idea, I was thrilled !
-He was working on the theme of collective and intimate memory, and wanted to explore this subject in a visual way, beside the show he is preparing in 2017.
+When my friend [Amaury Vanderborght](https://www.amaury-vdb.com/), an acrobat, came to me with this idea, I over the moon.
+He was working on the topic of collective and intimate memory. He wanted to explore this subject in a visual way, aside from the show he is preparing in 2017.
 
-"Ceux qui restent" is an ongoing documentary project, using different mediums. Whether it is visual arts, cinema, acrobatics that we use, the core is always testimonies of old people. We want to collect and transform this fragile individual memories, that are meant to disappear.
+"Ceux qui restent" is an ongoing documentary project, employing different mediums. Whether we use visual arts, cinema, acrobatics, the core is always testimonies of third-generation people. We want to collect and transform these fragile individual memories, that are destined to disappear.
 
 ## Film & Workshop
-In november 2016, we did a workshop in Paris with Maif Social Club. The result is a short film. Here is the trailer !
+In november 2016, we did a workshop in Paris with Maif Social Club. The result is a short film. Here is the trailer:
 <iframe src="https://player.vimeo.com/video/191042917" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 Check out [the event page !](https://www.facebook.com/CeuxQuiRestent/)
 
@@ -26,8 +26,8 @@ Check out [the event page !](https://www.facebook.com/CeuxQuiRestent/)
 
 
 ## Installation
-During the "Match" exposition at Bozar on may 7th 2016, we presented  a first installation version. As a film of different testimonies was screened, I was drawing on top of the projection using tracing paper and ink, and Amaury  was retyping what was said in the film. The result was a room filled in papers, quotes and drawings.
-It was a first draft, and we were not satisfied with it. The search continues.
+During the "Match" exhibition at Bozar on may 7th 2016, we presented a first version of the installation. As a film of the different testimonies was screened, I was drawing, overlaying the projection, using tracing paper and ink. Meanwhile, Amaury was transcribing what was said during the film. The result was a room filled with paper, documents, quotes and drawings.
+It was a first attempt, but we were not satisfied with it. The research continues.
 
 ![pola01](images/CeuxQuiRestent/pola_160423_1.jpg){:.half}
 ![pola02](images/CeuxQuiRestent/pola_160423_2.jpg){:.half}
@@ -42,7 +42,7 @@ It was a first draft, and we were not satisfied with it. The search continues.
 ![ink09](images/CeuxQuiRestent/dessin_09.jpg)
 
 ## Series
-We decided to make a short 12 episodes series out the testimonies we gathered so far. One episode, one person.
+We decided to make a short 12 episode series out the testimonies we gathered so far. One episode, one person.
 [First episode is already out !](https://vimeo.com/188686036) Stay tuned for more !
 <iframe src="https://player.vimeo.com/video/188686036" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
