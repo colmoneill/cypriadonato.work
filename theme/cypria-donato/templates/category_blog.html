@@ -1,3 +1,4 @@
+<!--
 {% for article in articles_page.object_list %}
 <div class="row-parent">
   <div class="row">
@@ -5,13 +6,18 @@
       <div class="colspan12-3 colspan6-3 colspan2-2  as-grid with-gutter">
           <li class="blog-entry"><article class="hentry">
             <header> <h2 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2> </header>
-            <div class="entry-content"> {{ article.summary }} </div><!-- /.entry-content -->
+            <div class="entry-content"> {{ article.summary }} </div>
             <footer class="post-info">
               <time class="published" datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }} </time>
-            </footer><!-- /.post-info -->
+            </footer>
           </article></li>
       </div>
     </div>
   </div>
 </div>
 {% endfor %}
+-->
+<div class="row">
+  <h2>Coming soon</h2>
+<img src=".theme/images/comingsoon.gif">
+</div>
