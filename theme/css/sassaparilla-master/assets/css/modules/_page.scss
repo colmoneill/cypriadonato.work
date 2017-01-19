@@ -494,3 +494,23 @@ li.project-entry div.img-placeholder {
     text-align: center;
   }
 }
+div.social-reel{
+  display: block;
+  margin-top: 16px;
+  width: 100%;
+  clear: both;
+  @include respond-to($c-vp){
+  display: block;
+  width: 40%;
+  margin: 0 auto;
+  margin-top: 16px;
+  }
+  img.icon{
+    margin-right: 3%;
+    width: 15%;
+    @include respond-to($c-vp){
+    width: 7% !important;
+    }
+    //margin-bottom: 16px;
+  }
+}
