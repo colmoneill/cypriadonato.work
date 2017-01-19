@@ -277,7 +277,7 @@ li.blog-entry article.hentry header h2 {
   color: grey;
 }
 li.blog-entry article.hentry header h2:before {
-  content: "â€” ";
+  content: "— ";
   color: #333;
 }
 li.blog-entry article.hentry div.entry-content {
