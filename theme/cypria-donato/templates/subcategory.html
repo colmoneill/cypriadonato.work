@@ -1,0 +1,49 @@
+{% extends 'base.html' %}
+
+{% block title %}
+    {{ subcategory|title }}
+    {% if articles_page and articles_paginator.num_pages > 1 %} ({{ articles_page.number }}) {% endif %}
+|
+{{ SITENAME }} &#8211; {{ SITESUBTITLE }}
+{% endblock %}
+
+{% block breadcrumbs %}
+{% set category, subcategories = subcategory|subcats %}
+<nav class="breadcrumb">
+{% if category %}
+/ <a href="{{ SITEURL }}/{{ category.url }}">
+    {% if category.slug == 'academy' %}
+        Academy
+    {% else %}
+        {{ category}}
+    {% endif %}</a>
+{% for subcategory in subcategories %}
+/ <a href="{{ SITEURL }}/{{ subcategory.url }}">{{ subcategory.shortname }}</a>
+{% endfor %}
+{% else %}
+{% if tag %}
+    #<a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
+{% endif %}
+{% endif %}
+</nav>{% endblock %}
+
+{% block content %}
+{% set category, subcategories = subcategory|subcats %}
+  <div class="index">
+    <h1>{{ subcategory.shortname }}</h1>
+
+      {% if category.slug == 'academy' %}
+
+    {% else %}
+
+    {% endif %}
+
+{% if (category and category.slug in ML_CATEGORIES) or
+(tag and tag.slug in ML_TAGS) %}
+
+{% endif %}
+
+
+  </div><!-- /#index -->
+
+{% endblock %}
