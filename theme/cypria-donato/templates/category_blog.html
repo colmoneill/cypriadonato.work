@@ -1,22 +1,20 @@
-  {% for article in articles_page.object_list %}
 <div class="row-parent">
-  <div class="row">
-    <div class="row__colspaced">
-      <div class="colspan12-12 as-grid with-gutter">
-        {%- for tag, articles in tags|sort %}
-            <li class="{{ tag }}"><a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a></li>
-        {% endfor %}
-      </div>
-    </div>
-  </div>
-</div>
-<div class="row-parent">
+  {% for article in articles %}
+  {% for subcategory in article.subcategories %}
+    <li>
+        <a href="{{ SITEURL }}/{{ subcategory.url }}">{{ subcategory.shortname }}</a>
+    </li>
+{% endfor %}
+{% endfor %}
   <div class="row">
     <div class="row__colspaced">
       {% for article in articles_page.object_list %}
             <div class="colspan12-3 colspan6-3 colspan2-2  as-grid with-gutter {{ article.tag }} ">
                 <li class="blog-entry"><article class="hentry">
                   <img src="{{ article.image }}">
+                  {% for subcategory in article.subcategories %}
+                    <a href="{{ SITEURL }}/{{ subcategory.url }}">{{ subcategory.shortname }}</a>
+                  {% endfor %}
                   <header> <h2 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2> </header>
                   <div class="entry-content"> {{ article.summary }} </div>
                   <footer class="post-info">
@@ -28,13 +26,3 @@
     </div>
   </div>
 </div>
-{% endfor %}
-
-{#
-<div class="row">
-<div class="colspan12-6">
-<h1 style="font-size: 32px; font-weight: bold; ">Coming soon!</h1>
-<img style="width:100%;" src="https://raw.githubusercontent.com/colmoneill/cypriadonato.work/master/content/images/comingsoon.gif">
-</div>
-</div>
-#}

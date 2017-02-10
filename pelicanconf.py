@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+from datetime import datetime
 import sys
 
 sys.path.append('.') # For relative imports below
@@ -62,6 +63,7 @@ CATEGORY_SAVE_AS = '{slug}.html'
 PLUGIN_PATHS = ["plugins"]
 PLUGINS = ['representative_image', 'collate_content', 'subcategory']
 
+PATH_METADATA= '(?P<subcategory_path>.*)/.*'
 
 from filters import filter_shuffle, filter_as_set, filter_insert_products, \
                     filter_readtime, filter_subcattoc, filter_subcats, filter_is_recent, \
