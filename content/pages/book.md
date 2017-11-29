@@ -9,6 +9,9 @@ Template: book
 
 ![image01](images/book/recherches_aquarelle.jpg){:.full}
 ![image02](images/book/DSC_0080.JPG){:.full}
+![image15](images/book/test2_arbres_decor.jpg){:.full}
+![image16](images/book/test2_montagnes.jpg){:.full}
+![image17](images/book/villes.jpg){:.full}
 ![image03](images/book/plan2_dos_002.jpg){:.full}
 ![image04](images/book/putain_03.JPG){:.full}
 ![image05](images/book/perso_page_05.jpg){:.full}
