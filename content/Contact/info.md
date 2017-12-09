@@ -26,6 +26,4 @@ template: contact_page
 </div>
 </div>
 
-<div class="contact-page colspan12-12">
-  <img class="cv" src="images/CV2017_rectoverso.jpg">
-</div>
+
