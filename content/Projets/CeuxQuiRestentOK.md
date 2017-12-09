@@ -8,6 +8,12 @@ Summary: An ongoing documentary project. Using different mediums, the objective 
 
 
 # CEUX QUI RESTENT – THOSE WHO REMAIN
+
+## The film
+<iframe src="https://player.vimeo.com/video/235709629?color=70ebda" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+## Origins
 When my friend [Amaury Vanderborght](https://www.amaury-vdb.com/), an acrobat, came to me with this idea, I was over the moon.
 He was working on the topic of collective and intimate memory. He wanted to explore this subject in a visual way, aside from the show he is preparing in 2017.
 
@@ -16,7 +22,8 @@ He was working on the topic of collective and intimate memory. He wanted to expl
 ## Film & Workshop
 In november 2016, we did a workshop in Paris with Maif Social Club. The result is a short film. Here is the trailer:
 <iframe src="https://player.vimeo.com/video/191042917" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-Check out [the event page !](https://www.facebook.com/CeuxQuiRestent/)
+
+Check out [our Facebook page !](https://www.facebook.com/CeuxQuiRestent/)
 
 ![recherchesPhotos](images/CeuxQuiRestent/pola_recherches.jpg){:.half}
 ![recherchesDessins](images/CeuxQuiRestent/DSC_0080.JPG){:.half}
@@ -43,7 +50,7 @@ It was a first attempt, but we were not satisfied with it. The research continue
 
 ## Series
 We decided to make a short 12 episode series out the testimonies we gathered so far. One episode, one person.
-[First episode is already out !](https://vimeo.com/188686036) Stay tuned for more !
+[All the episodes available here !](https://vimeo.com/188686036) 
 <iframe src="https://player.vimeo.com/video/188686036" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ![photo01](images/CeuxQuiRestent/dossier_image01.JPG)
